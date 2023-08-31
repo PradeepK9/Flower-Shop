@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Pradeep Jaiswal",
+    "username": "pkjais123",
+    "email": "pkjais123@gmail.com",
+    "password": "test1",
+    "role": "admin",
+    "address": {
+      "street": "Sector 62",
+      "suite": "4",
+      "city": "Noida",
+      "zipcode": 287708
+    },
+    "phone": 9712345674
+  },
+  {
+    "id": 2,
+    "name": "Bunty",
+    "username": "bunty056",
+    "email": "bunty056@gmail.com",
+    "password": "test2",
+    "role": "user",
+    "address": {
+      "street": "Gurudev",
+      "suite": "3A",
+      "city": "Kanpur",
+      "zipcode": "985432"
+    },
+    "phone": 712345678
+  },
+  {
+    "id": 3,
+    "name": "Talvis varma",
+    "username": "talvis123",
+    "email": "talvis123@gmail.com",
+    "password": "test3",
+    "role": "admin",
+    "address": {
+      "street": "Sector 62",
+      "suite": "3",
+      "city": "Noida",
+      "zipcode": 287708
+    },
+    "phone": 9712345674
+  },
+  {
+    "id": 4,
+    "name": "Riya Singh",
+    "username": "riya1234",
+    "email": "riyasingh@gmail.com",
+    "password": "test3",
+    "role": "user",
+    "address": {
+      "street": "Medical Chauraha",
+      "suite": "3A",
+      "city": "Gorakhpur",
+      "zipcode": "985432"
+    },
+    "phone": 9712345679
+  },
+  {
+    "id": 5,
+    "name": "Pankaj Gupta",
+    "username": "pankaj_321",
+    "email": "pankaj.bcs10@gmail.com",
+    "password": "Pankaj!1",
+    "role": "user",
+    "address": {
+      "street": "",
+      "suite": "",
+      "city": "",
+      "zipcode": ""
+    },
+    "phone": ""
+  }
+]
